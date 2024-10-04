@@ -1,0 +1,22 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "description": "\"WebScrapping of Linkedln and Twitter\"",
+  "keywords": [
+    "Node Js",
+    "Linkedln",
+    "Twitter",
+    "Puppetter",
+    "WebScrapping"
+  ],
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Karan Singh\"",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.9.0"
+  }
+}
